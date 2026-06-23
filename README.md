@@ -21,16 +21,9 @@
 
 ## 🛠️ Мой стек
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OSINT-00FF41?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-00FF41?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Sherlock-00FF41?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Maigret-00FF41?style=for-the-badge" />
-
-<br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=LINUX+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+85%25;KALI+LINUX+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+80%25;PYTHON+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+75%25;OSINT+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+85%25;NMAP+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+70%25;METASPLOIT+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+65%25;SHERLOCK+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+70%25;MAIGRET+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+65%25" />
+</p>
 
 ## 📊 GitHub Статистика
 
