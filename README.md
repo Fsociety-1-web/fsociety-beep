@@ -20,14 +20,20 @@
 - 🎯 Цель 2026:  освоить пентест, создать свой OSINT-инструмент  
 
 ## 🛠️ Мой стек
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=LINUX;KALI+LINUX;PYTHON;OSINT;NMAP;METASPLOIT" />
-</p>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-00FF41?style=for-the-badge)
+
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/OSINT-00FF41?style=for-the-badge
+https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logo=nmap&logoColor=white
+https://img.shields.io/badge/Metasploit-00FF41?style=for-the-badge&logo=metasploit&logoColor=white
+https://img.shields.io/badge/Sherlock-00FF41?style=for-the-badge
+https://img.shields.io/badge/Maigret-00FF41?style=for-the-badge
 
 ## 📊 GitHub Статистика
 
