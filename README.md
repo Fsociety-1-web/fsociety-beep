@@ -14,7 +14,7 @@
 
 ## 📊 GitHub
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=fsociety-beep&show_icons=true&theme=radical)
+![Статистика](https://github-readme-stats.vercel.app/api?username=fsociety-1-web&show_icons=true&theme=radical)
 
 ## 📫 Контакты
 
