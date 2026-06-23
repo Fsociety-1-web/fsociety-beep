@@ -21,14 +21,16 @@
 
 ## 🛠️ Мой стек
 
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/OSINT-00FF41?style=for-the-badge
-https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logo=nmap&logoColor=white
-https://img.shields.io/badge/Metasploit-00FF41?style=for-the-badge&logo=metasploit&logoColor=white
-https://img.shields.io/badge/Sherlock-00FF41?style=for-the-badge
-https://img.shields.io/badge/Maigret-00FF41?style=for-the-badge
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OSINT-00FF41?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-00FF41?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Sherlock-00FF41?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Maigret-00FF41?style=for-the-badge" />
+
+<br><br>
 
 ## 📊 GitHub Статистика
 
