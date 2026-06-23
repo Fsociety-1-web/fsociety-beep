@@ -18,7 +18,7 @@
 
 ## 📫 Контакты
 
-- Telegram: [@fsociety](https://t.me/I_m_untalented)  
+- Telegram: [https://t.me/I_m_untalented](https://t.me/I_m_untalented)  
 - GitHub: [fsociety-beep](https://github.com/Fsociety-1-web)
 
 ---
